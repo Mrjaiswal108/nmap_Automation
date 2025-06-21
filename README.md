@@ -27,8 +27,8 @@ This project leverages the powerful capabilities of Nmap through Python integrat
 ### 2. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/python-nmap-scanner.git
-cd python-nmap-scanner
+git clone https://github.com/Mrjaiswal108/nmap_Automation.git
+cd nmap_Automation
 ```
 
 ### 3. Install Dependencies
@@ -42,7 +42,7 @@ pip install python-nmap
 Run the script:
 
 ```bash
-python your_script_name.py
+python main.py
 ```
 
 ### Example
